@@ -6,4 +6,4 @@ It is inspired by dialogue with Nicole, the leader of the Followers of the Apoca
 
 ![Nicole](https://static.wikia.nocookie.net/fallout/images/4/4a/FO01_NPC_Nicole_N.png)
 
-pic of Twine layout goes here
+![Twine layout](TwineFO1.png)
