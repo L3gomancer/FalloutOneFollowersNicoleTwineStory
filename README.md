@@ -12,6 +12,6 @@ A screenshot from the original game:
 
 ![Nicole](https://static.wikia.nocookie.net/fallout/images/4/4a/FO01_NPC_Nicole_N.png)
 
-In the past I tried to plan the dialogue tree ni a mind mapping tool with screenshots:
+In the past I tried to plan the dialogue tree in a mind mapping tool with screenshots:
 
 ![xmind](NicoleXmind.JPG)
