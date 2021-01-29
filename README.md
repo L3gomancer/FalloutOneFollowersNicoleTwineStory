@@ -11,3 +11,7 @@ Twine helped to plan the paths through the dialogue tree:
 A screenshot from the original game:
 
 ![Nicole](https://static.wikia.nocookie.net/fallout/images/4/4a/FO01_NPC_Nicole_N.png)
+
+In the past I tried to plan the dialogue tree ni a mind mapping tool with screenshots:
+
+![xmind](NicoleXmind.JPG)
