@@ -4,7 +4,7 @@ This is an interactive fiction, mostly in HTML and CSS, made with [Twine](https:
 
 It is inspired by dialogue with Nicole, the leader of a cult of librarians, [the Followers of the Apocalypse](https://fallout.fandom.com/wiki/Followers_of_the_Apocalypse), in the first Fallout game.
 
-Twine helped to show the paths through the dialogue tree:
+Twine helped to plan the paths through the dialogue tree:
 
 ![Twine layout](TwineFO1.png)
 
