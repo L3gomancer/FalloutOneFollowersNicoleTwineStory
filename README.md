@@ -1,6 +1,6 @@
 # Nicole's Dialogue
 
-Click [here](https://l3gomancer.github.io/FalloutOneFollowersNicoleTwineStory/FO%20Nicole.html) to play. This is an interactive fiction, mostly in HTML and CSS, made with [Twine](https://twinery.org). 
+Click [here](https://l3gomancer.github.io/FalloutOneFollowersNicoleTwineStory/FO%20Nicole.html) to play. This is an interactive fiction, mostly in HTML and CSS, made with [Twine](https://twinery.org) (ctrl+click to open in a new tab). 
 
 It is inspired by dialogue with Nicole, the leader of a [cult of librarians](https://fallout.fandom.com/wiki/Nicole), in the first Fallout game.
 
